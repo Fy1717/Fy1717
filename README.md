@@ -1,5 +1,5 @@
 
-<img align="left" height="270px" alt="GIF" src="./fylogo.png" />
+<a href='https://www.frknyldz.site/yazilarim'> <img align="left" height="270px" alt="GIF" src="./fylogo.png" /> </a>
 <img align="right" height="270px" alt="GIF" src="./hw.png" />
 
 <br>
@@ -19,29 +19,93 @@
 [youtube]: https://www.youtube.com/channel/UCPJJbWeR2r1Rs_FWQhsPaFw
 </div>
 
-
 <br>
 <br>
-<br>
-<br>
+<hr>
 <h3 align="center">Languages and Tools</h3>
-<p align="center"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<img src="./jquery.webp" alt="jquery" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="./ml.png" alt="machine learning" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> <img src="./react.png" alt="react" width="40" height="40"/> <img src="./flaskk.png" alt="flask" width="40" height="40"/> </p>
 
 <hr>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fy1717&show_icons=true&locale=en&layout=compact" alt="Fy1717" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Fy1717&show_icons=true&locale=en" alt="Fy1717" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fy1717&show_icons=true&locale=en&layout=compact" alt="Fy1717" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fy1717&" alt="Fy1717" /></p>
 
 <hr>
 
- 🌱 **I’m currently learning Python Flask** <br>
- 💬 **Please Follow Us on Youtube for our educations** [HELLO WORLD](https://www.youtube.com/channel/UCPJJbWeR2r1Rs_FWQhsPaFw) <br>
- 📄 **My Personal Website** [https://www.frknyldz.site](https://www.frknyldz.site)
+<div align='center'>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+
+</div>
 
 <hr>
 
+<div align='center'> 
+
+🌱 **I’m currently learning Python Flask** <br>
+
+ 💬 **Please Follow Us on Youtube for our educations** [HELLO WORLD](https://www.youtube.com/channel/UCPJJbWeR2r1Rs_FWQhsPaFw) <br>
+
+ 📄 **My Personal Website** [https://www.frknyldz.site](https://www.frknyldz.site)
+
+</div>
+ 
+ <hr>
+
+<b><h3 align="center"> Click and Visit Our Youtube Channel For These Courses </h3></b>
+
+<div> 
+
+<div align='center'>
+
+<a href='https://www.youtube.com/watch?v=NJqJMkzO6V0&list=PLRzodrm7Zy5GyUsgqh_6J0ExeRA6UJpeJ'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/></a> 
+
+<a href='https://www.youtube.com/watch?v=RDMkzNzZOc0&list=PLRzodrm7Zy5GAqpxYM1F-gGS9sSVIjZW_'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a> 
+
+<a href='https://www.youtube.com/watch?v=tRY4u01tNUw'> <img src="./xamarin.png" alt="xamarin" width="80" height="80"/>  </a> 
+
+<a href='https://www.youtube.com/watch?v=aMgIxdE08qg&list=PLRzodrm7Zy5Feb24PDLXekXWDZg8gV9fm'> <img src="./jquery.webp" alt="jquery" width="80" height="80"/></a>
+
+</div>
+
+
+<br>
+
+<div align='center'>
+
+<a href='https://www.youtube.com/watch?v=mZontGxNZ7Q&list=PLRzodrm7Zy5Gs-Ch0qjigyeaiCmw9BaJa'> <img src="./flutter.webp" alt="flutter" width="80" height="80"/> </a>
+
+<a href='https://www.youtube.com/watch?v=LMBjPFWZxCU'> <img src="./git.png" alt="git" width="80" height="80"/> </a>
+
+<a href='https://www.youtube.com/watch?v=mZontGxNZ7Q&list=PLRzodrm7Zy5Gs-Ch0qjigyeaiCmw9BaJa'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/> </a>
+
+<a href='https://www.youtube.com/watch?v=IVys9sJDMao'> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="80" height="80"/> </a>
+
+</div>
+
+
+<br>
+
+<div align='center'>
+
+<a href='https://www.youtube.com/watch?v=N-KvogmPwmg'> <img src="./ml.png" alt="machine learning" width="80" height="80"/> </a>
+
+<a href='https://www.youtube.com/watch?v=EF7ARYX19Po'> <img src="./r.png" alt="r" width="80" height="80"/> </a>
+
+<a href='https://www.youtube.com/watch?v=K-qM5PVUVfk'> 
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="80" height="80"/> </a>
+
+<a href='https://www.youtube.com/watch?v=K-qM5PVUVfk'> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/> </a>
+
+</div>
+
+</div>
+
+<a href='https://frknyldz.site/yazilarim' align='center'>
+<img align='center' src="./footsite.png" alt="firebase" /> </a>
 
