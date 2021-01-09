@@ -30,16 +30,16 @@
 
 <hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fy1717&show_icons=true&locale=en&layout=compact" alt="Fy1717" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fy1717&show_icons=true&locale=en&layout=compact" alt="Fy1717" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Fy1717&show_icons=true&locale=en" alt="Fy1717" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Fy1717&show_icons=true&locale=en" alt="Fy1717" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fy1717&" alt="Fy1717" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fy1717&" alt="Fy1717" /></p>
 
 <hr>
 
- 🌱 **I’m currently learning Python Flask**
- 💬 **Please Follow Us on Youtube for our educations** [HELLO WORLD](https://www.youtube.com/channel/UCPJJbWeR2r1Rs_FWQhsPaFw)
+ 🌱 **I’m currently learning Python Flask** <br>
+ 💬 **Please Follow Us on Youtube for our educations** [HELLO WORLD](https://www.youtube.com/channel/UCPJJbWeR2r1Rs_FWQhsPaFw) <br>
  📄 **My Personal Website** [https://www.frknyldz.site](https://www.frknyldz.site)
 
 <hr>
