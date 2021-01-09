@@ -4,6 +4,8 @@
 
 <br>
 <h1 align="center">WELCOME!</h1>
+
+<div align="center">
 <h3 align="center">I'm a Computer Engineer and Instructor</h3>
 
 [<img align="center" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
@@ -15,6 +17,8 @@
 [twitter]: https://www.twitter.com/frkann17/
 [gmail]: mailto:frknyldz8489@gmail.com
 [youtube]: https://www.youtube.com/channel/UCPJJbWeR2r1Rs_FWQhsPaFw
+</div>
+
 
 <br>
 <br>
