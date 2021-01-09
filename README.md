@@ -85,14 +85,13 @@
 
 <br>
 
-<h5 align='center'> Don't Forget Sucscribe to the Channel Please, Thank You</h5>
-
+<h5 align='center'> Don't Forget Sucscribe to the Channel Please, Thank You 
+<br>
 <a href="https://www.youtube.com/channel/UCPJJbWeR2r1Rs_FWQhsPaFw"> <img src="./sucscribe.png" align='center' height="80" weight="200"/> </a>
-
+</h5>
 
 <br>
 <hr>
-<br>
 
 <a align='center' href='https://www.frknyldz.site/yazilarim'> <img src="./home.jpg" align='center' width="1200" height="300"/> </a>
 
