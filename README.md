@@ -6,7 +6,7 @@
 <h1 align="center">WELCOME!</h1>
 
 <div align="center">
-<h3 align="center">I'm a Computer Engineer and Instructor</h3>
+<h3 align="center">I'm a Software Engineer and Instructor</h3>
 
 [<img align="center" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="center" alt="itsmetherogue | Twitter" width="22px" src="./twitter.svg" />][twitter]
