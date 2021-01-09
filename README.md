@@ -85,7 +85,7 @@
 
 <br>
 
-<h5 align='center'> Don't Forget Sucscribe to the Channel Please, Thank You 
+<h5 align='center'> Don't Forget Sucscribe to the Channel Please, Thank You 👋
 <br>
 <a href="https://www.youtube.com/channel/UCPJJbWeR2r1Rs_FWQhsPaFw"> <img src="./sucscribe.png" align='center' height="80" weight="200"/> </a>
 </h5>
