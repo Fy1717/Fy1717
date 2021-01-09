@@ -6,6 +6,16 @@
 <h1 align="center">WELCOME!</h1>
 <h3 align="center">I'm a Computer Engineer and Instructor</h3>
 
+[<img align="center" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="center" alt="itsmetherogue | Twitter" width="22px" src="./twitter.svg" />][twitter]
+[<img align="center" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
+[<img align="center" alt="tassiaaccioly | Medium" width="22px" src="./youtube.png" />][youtube]
+
+[linkedin]: https://www.linkedin.com/in/furkan-y%C4%B1ld%C4%B1z-90342a138/
+[twitter]: https://www.twitter.com/frkann17/
+[gmail]: mailto:frknyldz8489@gmail.com
+[youtube]: https://www.youtube.com/channel/UCPJJbWeR2r1Rs_FWQhsPaFw
+
 <br>
 <br>
 <br>
@@ -31,12 +41,3 @@
 <hr>
 
 
-[<img align="center" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="center" alt="itsmetherogue | Twitter" width="22px" src="./twitter.svg" />][twitter]
-[<img align="center" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
-[<img align="center" alt="tassiaaccioly | Medium" width="22px" src="./youtube.png" />][youtube]
-
-[linkedin]: https://www.linkedin.com/in/furkan-y%C4%B1ld%C4%B1z-90342a138/
-[twitter]: https://www.twitter.com/frkann17/
-[gmail]: mailto:frknyldz8489@gmail.com
-[youtube]: https://www.youtube.com/channel/UCPJJbWeR2r1Rs_FWQhsPaFw
