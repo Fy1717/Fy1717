@@ -61,48 +61,31 @@
 
 <p align="center">
 
-<a href='https://www.youtube.com/watch?v=NJqJMkzO6V0&list=PLRzodrm7Zy5GyUsgqh_6J0ExeRA6UJpeJ'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/></a> 
+<a href='https://www.youtube.com/watch?v=NJqJMkzO6V0&list=PLRzodrm7Zy5GyUsgqh_6J0ExeRA6UJpeJ'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/></a> <a href='https://www.youtube.com/watch?v=RDMkzNzZOc0&list=PLRzodrm7Zy5GAqpxYM1F-gGS9sSVIjZW_'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a> <a href='https://www.youtube.com/watch?v=tRY4u01tNUw'> <img src="./xamarin.png" alt="xamarin" width="80" height="80"/>  </a> <a href='https://www.youtube.com/watch?v=aMgIxdE08qg&list=PLRzodrm7Zy5Feb24PDLXekXWDZg8gV9fm'> <img src="./jquery.webp" alt="jquery" width="80" height="80"/></a>
 
-<a href='https://www.youtube.com/watch?v=RDMkzNzZOc0&list=PLRzodrm7Zy5GAqpxYM1F-gGS9sSVIjZW_'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a> 
+</p>
 
-<a href='https://www.youtube.com/watch?v=tRY4u01tNUw'> <img src="./xamarin.png" alt="xamarin" width="80" height="80"/>  </a> 
+<br>
 
-<a href='https://www.youtube.com/watch?v=aMgIxdE08qg&list=PLRzodrm7Zy5Feb24PDLXekXWDZg8gV9fm'> <img src="./jquery.webp" alt="jquery" width="80" height="80"/></a>
+<p align="center">
 
-<p>
+<a href='https://www.youtube.com/watch?v=mZontGxNZ7Q&list=PLRzodrm7Zy5Gs-Ch0qjigyeaiCmw9BaJa'> <img src="./flutter.webp" alt="flutter" width="80" height="80"/> </a> <a href='https://www.youtube.com/watch?v=LMBjPFWZxCU'> <img src="./git.png" alt="git" width="80" height="80"/> </a> <a href='https://www.youtube.com/watch?v=mZontGxNZ7Q&list=PLRzodrm7Zy5Gs-Ch0qjigyeaiCmw9BaJa'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/> </a> <a href='https://www.youtube.com/watch?v=IVys9sJDMao'> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="80" height="80"/> </a>
+
+</p>
 
 
 <br>
 
 <p align="center">
 
-<a href='https://www.youtube.com/watch?v=mZontGxNZ7Q&list=PLRzodrm7Zy5Gs-Ch0qjigyeaiCmw9BaJa'> <img src="./flutter.webp" alt="flutter" width="80" height="80"/> </a>
-
-<a href='https://www.youtube.com/watch?v=LMBjPFWZxCU'> <img src="./git.png" alt="git" width="80" height="80"/> </a>
-
-<a href='https://www.youtube.com/watch?v=mZontGxNZ7Q&list=PLRzodrm7Zy5Gs-Ch0qjigyeaiCmw9BaJa'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/> </a>
-
-<a href='https://www.youtube.com/watch?v=IVys9sJDMao'> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="80" height="80"/> </a>
-
-<p>
-
-
-<br>
-
-
-<p align="center"> <a href='https://www.youtube.com/watch?v=N-KvogmPwmg'> <img src="./ml.png" alt="machine learning" width="80" height="80"/> </a>
-
-<a href='https://www.youtube.com/watch?v=EF7ARYX19Po'> <img src="./r.png" alt="r" width="80" height="80"/> </a>
-
-<a href='https://www.youtube.com/watch?v=K-qM5PVUVfk'> 
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="80" height="80"/> </a>
-
-<a href='https://www.youtube.com/watch?v=K-qM5PVUVfk'> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/> </a>
+<a href='https://www.youtube.com/watch?v=N-KvogmPwmg'> <img src="./ml.png" alt="machine learning" width="80" height="80"/> </a> <a href='https://www.youtube.com/watch?v=EF7ARYX19Po'> <img src="./r.png" alt="r" width="80" height="80"/> </a> <a href='https://www.youtube.com/watch?v=K-qM5PVUVfk'> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="80" height="80"/> </a> <a href='https://www.youtube.com/watch?v=K-qM5PVUVfk'> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/> </a>
 
 </p>
+
+<h5 align='center'> Don't Forget Sucscribe to the Channel Please, Thank You</h5>
 
 <hr>
 <br>
 
-<a align='center' href='https://www.frknyldz.site/yazilarim'> <img src="./home.jpg" align='center' alt="firebase" width="1200" height="400"/> </a>
+<a align='center' href='https://www.frknyldz.site/yazilarim'> <img src="./home.jpg" align='center' alt="firebase" width="1200" height="300"/> </a>
 
