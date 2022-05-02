@@ -1,6 +1,11 @@
 
-<a href='https://www.frknyldz.site/yazilarim'> <img align="left" height="270px" alt="GIF" src="./fylogo.png" /> </a>
-<img align="right" height="270px" alt="GIF" src="./hw.png" />
+<a href='https://www.frknyldz.net/yazilarim'> 
+<img align="left" height="270px" alt="GIF" src="./fylogo.png" /> 
+</a>
+
+<a href="https://www.youtube.com/channel/UCPJJbWeR2r1Rs_FWQhsPaFw">
+<img align="right" height="270px" alt="GIF" src="./hw.png" /> 
+</a>
 
 <br>
 <h1 align="center">WELCOME!</h1>
@@ -30,6 +35,18 @@
 <br>
 <br>
 
+<!-- <table font-size:30px;>
+   <tr>
+      <td><a href="https://www.youtube.com/c/HelloWorldhere" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UC8ofcOdHNINiPrBA9D59Vaw?style=social&logo=Youtube&label=Hello%20World%20Education%20"></a></td>
+   </tr>
+
+   <tr>
+        <td><a href="https://www.youtube.com/c/HelloWorldhere" target="_blank"><img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC8ofcOdHNINiPrBA9D59Vaw?color=blue&label=Views&logo=YouTube&style=flat-square"></a></td>
+    </tr>
+</table> -->
+
+<br>
+<br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Fy1717&show_icons=true&locale=en" alt="Fy1717" /></p>
 
@@ -54,7 +71,7 @@
 
  💬 **Please Follow Us on Youtube for our educations** [HELLO WORLD](https://www.youtube.com/channel/UCPJJbWeR2r1Rs_FWQhsPaFw) <br>
 
- 📄 **My Personal Website** [https://www.frknyldz.site](https://www.frknyldz.site)
+ 📄 **My Personal Website** [https://www.frknyldz.net](https://www.frknyldz.net)
 
 </div>
  
@@ -93,5 +110,5 @@
 <br>
 <hr>
 
-<a align='center' href='https://www.frknyldz.site/yazilarim'> <img src="./home.jpg" align='center' width="1200" height="300"/> </a>
+<a align='center' href='https://www.frknyldz.net/yazilarim'> <img src="./home.jpg" align='center' width="1200" height="300"/> </a>
 
